@@ -9,7 +9,7 @@
 
 /*
 CLI_Clock by Andrew S Nelson
-https://github.com/Androsh7/CLI_Clock
+https://github.com/andrew-nelson7/CLI_Clock
 
 MIT License
 
